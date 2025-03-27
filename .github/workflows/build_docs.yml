@@ -29,3 +29,4 @@ jobs:
         with:
           title: 'docs: generate docs from latest main [skip-ci]'
           delete-branch: true
+      - name: Install Node and dependencies updated
